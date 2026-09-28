@@ -10,7 +10,7 @@ Activity 05 - CSS Arcade Night - Round 3
 ## Live URL
 https://codd.cs.gsu.edu/~efistik2/WP/INC/INC5/index.html
 
-Demo: [EFKHP-Cabinet.mp4](EFKHP-Cabinet.mp4)
+Demo: [EFKHP-Cabinet.mp4](EFKHP_Cabinet.mp4)
 
 ## Build Challenge
 
