@@ -1,4 +1,4 @@
-# css-arcade-teamname · Tic-Tac-Turbo Arcade Cabinet
+# css-arcade-EFKHP - Tic-Tac-Turbo Arcade Cabinet
 
 Activity 05 - CSS Arcade Night - Round 3
 
