@@ -74,4 +74,4 @@ Fixed file: `css_arcade_broken.html`
 | 3 (Keyframes) | `#answer { animation: moveFraction 3s ease-in-out 1s both; }` (was missing `both`) | Without a fill mode, the answer sat at its final position during the 1s delay and snapped back when the animation ended. `both` applies the 0% keyframe during the delay and holds the 100% keyframe afterwards. |
 | 4 (Positioning) | `.heart { position: absolute; }` (added) | `top`, `left`, `right` and `z-index` have no effect on a non-positioned element, so the heart stayed in normal flow. Making it absolute places it inside `.shirt-wrap` so `z-index: 10` layers it over the shirt. |
 
-![Round 2 bug proof](EFKHP-Round2-BugProof.png)
+![Round 2 bug proof](screenshots/EFKHP-Round2-BugProof.png)
